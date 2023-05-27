@@ -2,7 +2,7 @@
 ## Practicing GIT commands
 ### Empiech007
 ### Description 
-Practice practice practice ... a journey of a thousand miles start with the first step.
+Practice practice practice ... a journey of a thousand miles starts with the first step.
 ### Languages used
 Javascript, HTML, CSS
 ### Known bugs
